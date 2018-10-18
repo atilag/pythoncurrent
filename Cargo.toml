@@ -1,0 +1,16 @@
+[package]
+name = "pythoncurrent"
+version = "0.1.0"
+authors = ["jgomez"]
+
+[lib]
+name = "pythoncurrent"
+crate-type = ["rlib", "cdylib"]
+
+[dependencies]
+rayon = "1.0"
+lazy_static = "1.1.0"
+
+[dependencies.pyo3]
+version = "0.4.0"
+features = ["extension-module"]

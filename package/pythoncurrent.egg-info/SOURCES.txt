@@ -1,0 +1,7 @@
+setup.py
+package/pythoncurrent/__init__.py
+package/pythoncurrent.egg-info/PKG-INFO
+package/pythoncurrent.egg-info/SOURCES.txt
+package/pythoncurrent.egg-info/dependency_links.txt
+package/pythoncurrent.egg-info/not-zip-safe
+package/pythoncurrent.egg-info/top_level.txt
